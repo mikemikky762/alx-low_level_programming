@@ -1,1 +1,1 @@
-Thank you Lord
+God is Great
