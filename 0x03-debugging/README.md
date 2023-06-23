@@ -1,1 +1,1 @@
-God is Great
+God please help me
