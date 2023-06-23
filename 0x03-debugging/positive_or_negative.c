@@ -7,5 +7,5 @@ printf("%d is postive\n", i);
 else if (i < 0)
 printf("%d is negative\n", i);
 else
-printf("%d is xero\n", i);
+printf("%d is zero\n", i);
 }
