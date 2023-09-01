@@ -1,5 +1,6 @@
 #include "main.h"
 
+
 /**
 *  * set_bit - sets a bit at a given index to 1
 *
@@ -27,5 +28,3 @@ return (-1);
 return (1);
 
 }
-
-
